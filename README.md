@@ -8,9 +8,9 @@
 
 <h5 align="center">
     
-[![hf_space]()
+[![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)]()
 [![project page]()
-[![arXiv]() <br>
+[![arXiv](https://img.shields.io/badge/Arxiv-2311.10122-b31b1b.svg?logo=arXiv)] <br>
 
 
 
