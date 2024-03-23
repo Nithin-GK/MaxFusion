@@ -8,7 +8,7 @@
 <h5 align="center">
     
 [![hf_space]()
-[![Studios](https://img.shields.io/badge/ModelScope-Open%20In%20Studios-blue)](https://modelscope.cn/studios/PKU-YuanLab/Video-LLaVA)
+[![project page]()
 [![arXiv]() <br>
 
 
