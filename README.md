@@ -20,26 +20,8 @@
 <img src="./assets/img2.png" width="100%">
 
 
+Keywords: Multimodal Generation,   Text to image generation, Plug and Play
 
-
-This repository contains the implementation of the paper:
-> **Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models**<br>
-> [Nithin Gopalakrishnan Nair](https://nithin-gk.github.io/), [Chaminda Bandara](https://www.wgcban.com/), [Vishal M Patel](https://engineering.jhu.edu/vpatel36/vishal-patel/)
-
-IEEE/CVF International Conference on Computer Vision (**CVPR**), 2023
-
-From [VIU Lab](https://engineering.jhu.edu/vpatel36/), Johns Hopkins University
-
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Nair_Unite_and_Conquer_Plug__Play_Multi-Modal_Synthesis_Using_Diffusion_CVPR_2023_paper.pdf)] |
-[[Project Page](https://nithin-gk.github.io/projectpages/Multidiff)] |
-[[Video](https://youtu.be/N4EOwnhNzIk)]
-
-Keywords: Multimodal Generation, Semantic Face Generation, Multimodal Face generation, Text to image generation, Diffusion based Face Generation, Text to Image Generation, Text to Face Generation
-
-## Applications
-<img src="./utils/faces.png" width="100%">
-
-<img src="./utils/natural.png" width="100%">
 
 We propose **MaxFusion**, a plug and play framework for multimodal generation using text to image diffusion models.
     *(a) Multimodal generation*. We address the problem of conflicting spatial conditioning for text to iamge models .
