@@ -10,7 +10,7 @@
     
 [![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)]()
 [![project page](https://replicate.com/nateraw/video-llava/badge)](https://nithin-gk.github.io/maxfusion.github.io/)
-[![arXiv](https://img.shields.io/badge/Arxiv-.svg?logo=arXiv)(https://arxiv.org/pdf/2404.09977.pdf)] <br>
+[![arXiv](https://img.shields.io/badge/Arxiv-.svg?logo=arXiv)](https://arxiv.org/pdf/2404.09977.pdf) <br>
 
 
 
