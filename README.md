@@ -67,11 +67,7 @@ python gradio_maxfusion.py
 
 ```
 
-## Citation
-5. If you use our work, please use the following citation
-```
 
-```
 
 This code is reliant on:
 ```
@@ -79,6 +75,7 @@ https://github.com/google/prompt-to-prompt/
 ```
 
 ## Citation
+5. If you use our work, please use the following citation
 
 ``` 
 ```
