@@ -9,7 +9,7 @@
 <h5 align="center">
     
 [![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)]()
-[![project page](https://replicate.com/nateraw/video-llava/badge)](https://nithin-gk.github.io/maxfusion.github.io/)
+[![project page](https://nithin-gk.github.io/maxfusion.github.io/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2404.09977-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2404.09977) <br>
 
 
