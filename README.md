@@ -78,10 +78,12 @@ https://github.com/google/prompt-to-prompt/
 5. If you use our work, please use the following citation
 
 ```
-@article{nair2024maxfusion,
-  title={MaxFusion: Plug\&Play Multi-Modal Generation in Text-to-Image Diffusion Models},
+@inproceedings{nair2025maxfusion,
+  title={Maxfusion: Plug\&play multi-modal generation in text-to-image diffusion models},
   author={Nair, Nithin Gopalakrishnan and Valanarasu, Jeya Maria Jose and Patel, Vishal M},
-  journal={arXiv preprint arXiv:2404.09977},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={93--110},
+  year={2025},
+  organization={Springer}
 }
 ```
